@@ -23,7 +23,7 @@ pkg install git
    git clone https://github.com/zainarain279/animix.git
    ```
    ```bash
-   cd clayton
+   cd animix
    ```
 
 2. **Instal Requirements:**
@@ -51,14 +51,16 @@ For those using multiple accounts, it's recommended to use a proxy (if using onl
 ```bash
 http://username:passwoord@hostname:port
 socks5://username:password@hostname:port
+```
 
-##Telegram channel 
+
+## Telegram channel 
 **https://t.me/AirdropScript6**
 
-##┊GIVE┊┊ME ┊A ┊┊HUG┊┊┊
-##┊┊┊┊┊╱▔▔▔▔╲┊┊┊┊┊
-##┊╭╮┊┊▏╭┛┗╮▕┊┊╭╮┊
-##╭┛╰┳━▏┈╭╮┈▕━┳╯┗╮
-##┃┈┈┃┈╲╰▅▅╯╱┈┃┈┈┃
-##╰━━┻┓┈╲▂▂╱┈┏┻━━╯
-##┊┊┊┊┃┈┈┈┈┈┈┃┊┊┊┊
+## ┊GIVE┊┊ME ┊A ┊┊HUG┊┊┊
+## ┊┊┊┊┊╱▔▔▔▔╲┊┊┊┊┊
+## ┊╭╮┊┊▏╭┛┗╮▕┊┊╭╮┊
+## ╭┛╰┳━▏┈╭╮┈▕━┳╯┗╮
+## ┃┈┈┃┈╲╰▅▅╯╱┈┃┈┈┃
+## ╰━━┻┓┈╲▂▂╱┈┏┻━━╯
+## ┊┊┊┊┃┈┈┈┈┈┈┃┊┊┊┊
